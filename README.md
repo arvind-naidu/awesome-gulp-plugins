@@ -59,3 +59,6 @@ A listing of each plugin and the current version included in this package is lis
 
 * 2014-01-09   v0.0.1   initial release
 * 2014-01-09   v0.0.2   removed versions
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/awesome-gulp-plugins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
