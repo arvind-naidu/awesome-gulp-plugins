@@ -1,6 +1,14 @@
 # Awesome Gulp Plugins v0.0.2
 > Collection of awesome gulp plugins.
 
+<p align="center">
+  <a href="http://gulpjs.com">
+    <img height="194" width="98" src="https://raw.github.com/gulpjs/artwork/master/gulp.png"/>
+  </a>
+  <br/>
+  <a href="http://gulpjs.com/">Visit the website!</a>
+</p>
+
 ## Getting Started
 These plugins require Gulp `~3.3.0`
 
