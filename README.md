@@ -14,8 +14,15 @@ A listing of each plugin and the current version included in this package is lis
 #### [gulp-concat](https://github.com/wearefractal/gulp-concat)  [![Build Status](https://api.travis-ci.org/wearefractal/gulp-concat.png?branch=master)](https://travis-ci.org/wearefractal/gulp-concat) [![Dependency Status](https://david-dm.org/wearefractal/gulp-concat.png)](https://david-dm.org/wearefractal/gulp-concat)
 > Concatenate files.
 
-#### [gulp-clean](https://github.com/peter-vilja/gulp-clean)  [![Build Status](https://api.travis-ci.org/peter-vilja/gulp-clean.png?branch=master)](https://travis-ci.org/peter-vilja/gulp-clean) [![Dependency Status](https://david-dm.org/peter-vilja/gulp-clean.png)](hhttps://david-dm.org/peter-vilja/gulp-clean)
+#### [gulp-clean](https://github.com/peter-vilja/gulp-clean)  [![Build Status](https://api.travis-ci.org/peter-vilja/gulp-clean.png?branch=master)](https://travis-ci.org/peter-vilja/gulp-clean) [![Dependency Status](https://david-dm.org/peter-vilja/gulp-clean.png)](https://david-dm.org/peter-vilja/gulp-clean)
 > Removes files and folders.
+
+#### [gulp-compass](https://github.com/appleboy/gulp-compass)  [![Build Status](https://api.travis-ci.org/appleboy/gulp-compass.png?branch=master)](https://travis-ci.org/appleboy/gulp-compass) [![Dependency Status](https://david-dm.org/appleboy/gulp-compass.png)](https://david-dm.org/appleboy/gulp-compass)
+> Compile Sass to CSS using Compass
+
+#### [gulp-stylus](https://github.com/stevelacy/gulp-stylus)  [![Build Status](https://api.travis-ci.org/stevelacy/gulp-stylus.png?branch=master)](https://travis-ci.org/stevelacy/gulp-stylus) [![Dependency Status](https://david-dm.org/stevelacy/gulp-stylus.png)](https://david-dm.org/stevelacy/gulp-stylus)
+> Compile Stylus files to CSS
+
 
 ## Release History
 
