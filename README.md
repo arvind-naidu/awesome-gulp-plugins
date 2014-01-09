@@ -7,7 +7,7 @@ These plugins require Gulp `~3.3.0`
 If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) guide, as it explains how to create a [Gulpfile](https://github.com/gulpjs/gulp/#sample-gulpfile) as well as installing and using Gulp plugins. Once you're familiar with that process, check out these awesome plugins listed below as it will drastically improve you workflow.
 
 ### Overview
-As of now, this collection contains 5 plugins. This list is made available as a convinience for the first-time users wanting to find out useful plugins to drastically improve their workflow.
+As of now, this collection contains 12 plugins. This list is made available as a convinience for the first-time users wanting to find out useful plugins to drastically improve their workflow.
 
 A listing of each plugin and the current version included in this package is listed below.
 
@@ -35,7 +35,17 @@ A listing of each plugin and the current version included in this package is lis
 #### [gulp-csslint](https://github.com/lazd/gulp-csslint)  [![Build Status](https://api.travis-ci.org/lazd/gulp-csslint.png?branch=master)](https://travis-ci.org/lazd/gulp-csslint) [![Dependency Status](https://david-dm.org/lazd/gulp-csslint.png)](https://david-dm.org/lazd/gulp-csslint)
 > Lint CSS files.
 
+#### [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin)  [![Build Status](https://api.travis-ci.org/jonschlinkert/gulp-htmlmin.png?branch=master)](https://travis-ci.org/jonschlinkert/gulp-htmlmin) [![Dependency Status](https://david-dm.org/jonschlinkert/gulp-htmlmin.png)](https://david-dm.org/jonschlinkert/gulp-htmlmin)
+> Minify HTML.
 
+#### [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)  [![Build Status](https://api.travis-ci.org/sindresorhus/gulp-imagemin.png?branch=master)](https://travis-ci.org/sindresorhus/gulp-imagemin) [![Dependency Status](https://david-dm.org/sindresorhus/gulp-imagemin.png)](https://david-dm.org/sindresorhus/gulp-imagemin)
+> Minify PNG, JPEG and GIF images.
+
+#### [gulp-jade](https://github.com/phated/gulp-jade)  [![Build Status](https://api.travis-ci.org/phated/gulp-jade.png?branch=master)](https://travis-ci.org/phated/gulp-jade) [![Dependency Status](https://david-dm.org/phated/gulp-jade.png)](https://david-dm.org/phated/gulp-jade)
+> Compile Jade templates.
+
+#### [gulp-sass](https://github.com/dlmanning/gulp-sass)  [![Build Status](https://api.travis-ci.org/dlmanning/gulp-sass.png?branch=master)](https://travis-ci.org/dlmanning/gulp-sass) [![Dependency Status](https://david-dm.org/dlmanning/gulp-sass.png)](https://david-dm.org/phated/gulp-jade)
+> Compile Sass to CSS.
 
 ## Release History
 
