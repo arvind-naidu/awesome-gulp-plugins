@@ -1,4 +1,4 @@
-# Awesome Gulp Plugins v0.0.1
+# Awesome Gulp Plugins v0.0.2
 > Collection of awesome gulp plugins.
 
 ## Getting Started
@@ -11,19 +11,33 @@ As of now, this collection contains 5 plugins. This list is made available as a 
 
 A listing of each plugin and the current version included in this package is listed below.
 
+#### [gulp-clean](https://github.com/peter-vilja/gulp-clean)  [![Build Status](https://api.travis-ci.org/peter-vilja/gulp-clean.png?branch=master)](https://travis-ci.org/peter-vilja/gulp-clean) [![Dependency Status](https://david-dm.org/peter-vilja/gulp-clean.png)](https://david-dm.org/peter-vilja/gulp-clean)
+> Cleans files and folders.
+
+#### [gulp-compass](https://github.com/appleboy/gulp-compass)  [![Build Status](https://api.travis-ci.org/appleboy/gulp-compass.png?branch=master)](https://travis-ci.org/appleboy/gulp-compass) [![Dependency Status](https://david-dm.org/appleboy/gulp-compass.png)](https://david-dm.org/appleboy/gulp-compass)
+> Compile Sass to CSS using Compass.
+
 #### [gulp-concat](https://github.com/wearefractal/gulp-concat)  [![Build Status](https://api.travis-ci.org/wearefractal/gulp-concat.png?branch=master)](https://travis-ci.org/wearefractal/gulp-concat) [![Dependency Status](https://david-dm.org/wearefractal/gulp-concat.png)](https://david-dm.org/wearefractal/gulp-concat)
 > Concatenate files.
 
-#### [gulp-clean](https://github.com/peter-vilja/gulp-clean)  [![Build Status](https://api.travis-ci.org/peter-vilja/gulp-clean.png?branch=master)](https://travis-ci.org/peter-vilja/gulp-clean) [![Dependency Status](https://david-dm.org/peter-vilja/gulp-clean.png)](https://david-dm.org/peter-vilja/gulp-clean)
-> Removes files and folders.
-
-#### [gulp-compass](https://github.com/appleboy/gulp-compass)  [![Build Status](https://api.travis-ci.org/appleboy/gulp-compass.png?branch=master)](https://travis-ci.org/appleboy/gulp-compass) [![Dependency Status](https://david-dm.org/appleboy/gulp-compass.png)](https://david-dm.org/appleboy/gulp-compass)
-> Compile Sass to CSS using Compass
-
 #### [gulp-stylus](https://github.com/stevelacy/gulp-stylus)  [![Build Status](https://api.travis-ci.org/stevelacy/gulp-stylus.png?branch=master)](https://travis-ci.org/stevelacy/gulp-stylus) [![Dependency Status](https://david-dm.org/stevelacy/gulp-stylus.png)](https://david-dm.org/stevelacy/gulp-stylus)
-> Compile Stylus files to CSS
+> Compile Stylus files to CSS.
+
+#### [gulp-less](https://github.com/plus3network/gulp-less)  [![Build Status](https://api.travis-ci.org/plus3network/gulp-less.png?branch=master)](https://travis-ci.org/plus3network/gulp-less) [![Dependency Status](https://david-dm.org/plus3network/gulp-less.png)](https://david-dm.org/plus3network/gulp-less)
+> Compile LESS files to CSS.
+
+#### [gulp-jshint](https://github.com/wearefractal/gulp-jshint)  [![Build Status](https://api.travis-ci.org/wearefractal/gulp-jshint.png?branch=master)](https://travis-ci.org/wearefractal/gulp-jshint) [![Dependency Status](https://david-dm.org/wearefractal/gulp-jshint.png)](https://david-dm.org/wearefractal/gulp-jshint)
+> Validate files with JSHint.
+
+#### [gulp-uglify](https://github.com/terinjokes/gulp-uglify)  [![Build Status](https://api.travis-ci.org/terinjokes/gulp-uglify.png?branch=master)](https://travis-ci.org/terinjokes/gulp-uglify) [![Dependency Status](https://david-dm.org/wearefractal/gulp-jshint.png)](https://david-dm.org/terinjokes/gulp-uglify)
+> Minify files with UglifyJS.
+
+#### [gulp-csslint](https://github.com/lazd/gulp-csslint)  [![Build Status](https://api.travis-ci.org/lazd/gulp-csslint.png?branch=master)](https://travis-ci.org/lazd/gulp-csslint) [![Dependency Status](https://david-dm.org/lazd/gulp-csslint.png)](https://david-dm.org/lazd/gulp-csslint)
+> Lint CSS files.
+
 
 
 ## Release History
 
 * 2014-01-09   v0.0.1   initial release
+* 2014-01-09   v0.0.2   removed versions
