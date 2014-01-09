@@ -13,3 +13,10 @@ A listing of each plugin and the current version included in this package is lis
 
 #### [gulp-concat](https://github.com/wearefractal/gulp-concat)  [![Build Status](https://api.travis-ci.org/wearefractal/gulp-concat.png?branch=master)](https://travis-ci.org/wearefractal/gulp-concat) [![Dependency Status](https://david-dm.org/wearefractal/gulp-concat.png)](https://david-dm.org/wearefractal/gulp-concat)
 > Concatenate files.
+
+#### [gulp-clean](https://github.com/peter-vilja/gulp-clean)  [![Build Status](https://api.travis-ci.org/peter-vilja/gulp-clean.png?branch=master)](https://travis-ci.org/peter-vilja/gulp-clean) [![Dependency Status](https://david-dm.org/peter-vilja/gulp-clean.png)](hhttps://david-dm.org/peter-vilja/gulp-clean)
+> Removes files and folders.
+
+## Release History
+
+* 2014-01-09   v0.0.1   initial release
